@@ -185,3 +185,12 @@ Interests:
 2. Bioinformatics
 
 Role: Trainee
+
+## Kintu Christopher
+Institution: Makerere University
+
+Interests:
+1. Genetics
+2. Bioinformatics
+
+Role: Student
